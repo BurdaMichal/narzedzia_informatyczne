@@ -17,9 +17,9 @@ Lista elementów nienumerowanych:
 * Cztety
 * Pięć
 
-###Nagłówek większy 
+#Nagłówek większy 
 
-##Nagłówek mniejszy
+
 
 Kod z wykorzystaniem bloku kodu:
 ```python
