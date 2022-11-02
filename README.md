@@ -24,10 +24,10 @@ link: https://home.agh.edu.pl/~pawljmlo/didactics/tools/2022/2
 Tabela:
 <h2>Kosztorys</h2>
 
-| First Header  | Second Header |
+| Rodzaj wydatków | Koszty |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Wynajem biura  | 1550zł  |
+| Pensje pracowników | 12839zł  |
 
 
 Kod z wykorzystaniem bloku kodu:
