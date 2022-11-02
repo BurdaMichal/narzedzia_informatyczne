@@ -21,6 +21,13 @@ Koszty jednorazowe:
 
 link: https://home.agh.edu.pl/~pawljmlo/didactics/tools/2022/2
 
+Tabela:
+<h2>Kosztorys</h2>
+Rodzaj wydatków | Koszty 
+---|---
+Wynajem biura | 1550zł 
+Pensje pracowników | 12839zł
+Internet za miesiąc | 72zł 
 
 
 Kod z wykorzystaniem bloku kodu:
