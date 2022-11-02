@@ -28,6 +28,7 @@ Tabela:
 | ------------- | ------------- |
 | Wynajem biura  | 1550zł  |
 | Pensje pracowników | 12839zł  |
+| Internet za miesiąc | 72zł |
 
 
 Kod z wykorzystaniem bloku kodu:
