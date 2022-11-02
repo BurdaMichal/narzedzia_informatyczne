@@ -2,6 +2,23 @@
 # Aplikacja StudUnity
 Głównym celem projektu jest stworzenie przyjaznego i łatwego w obsłudze środowiska ułatwiającego naukę i poszerzanie wiedzy z różnych zakresów. Dzięki naszej aplikacji studenci rozmaitych kierunków będą mogli wspomagać się wzajemnie w tym trudnym aspekcie studenckiego życia.
 
+## Inspiracje
+CZY KTOŚ ZROBIŁ COŚ JUŻ PODOBNEGO? Cóż, w obecnych czasach trudno być oryginalnym. Istnieje aplikacja Knowunity, która jest dedykowana uczniom szkół podstawowych i ponadpodstawowych i umożliwia dzielenie się notatkami. Nasza aplikacja ma działać na podobnej zasadzie, jednak naszą grupą docelową są studenci.
+
+Przykładowe koszty:
+1. Wynajem biura
+2. Pensje pracowników
+3. Ogrzewanie 
+4. Woda 
+5. Gaz 
+6. Internet
+7. Prąd
+
+Koszty jednorazowe:
+* Kaucja za biuro 
+* Premia świąteczna dla pracowników
+* Ubezpieczenie 
+
 link: https://home.agh.edu.pl/~pawljmlo/didactics/tools/2022/2
 
 Lista elementów numerowanych:
