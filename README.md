@@ -25,9 +25,9 @@ Tabela:
 <h2>Kosztorys</h2>
 Rodzaj wydatków | Koszty 
 ---|---
-Wynajem biura | 1550zł 
-Pensje pracowników | 12839zł
-Internet za miesiąc | 72zł 
+- | W ynajem biura | 1550zł 
+- | Pensje pracowników | 12839zł
+- | Internet za miesiąc | 72zł 
 
 
 Kod z wykorzystaniem bloku kodu:
