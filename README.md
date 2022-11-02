@@ -22,6 +22,7 @@ Koszty jednorazowe:
 link: https://home.agh.edu.pl/~pawljmlo/didactics/tools/2022/2
 
 
+
 Kod z wykorzystaniem bloku kodu:
 ```python
 x = input("Wpisz pierwsza liczbe: ")
@@ -30,6 +31,20 @@ y = input("Wpisz druga liczbe: ")
 sum = int(x) + int(y)
 
 print("The sum is: ", sum)
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
 
 Lista elementów numerowanych:
 1. Jeden
@@ -45,4 +60,5 @@ Lista elementów nienumerowanych:
 * Cztety
 * Pięć
 
-<h1>Duży nagłówek.</h1>
+
+
