@@ -17,8 +17,9 @@ Lista elementów nienumerowanych:
 * Cztety
 * Pięć
 
-###Nagłówek większy 
-
+# Większy nagłówek 
+## Mniejszy nagłówek 
+###### Najmniejszy nagłówek
 
 
 Kod z wykorzystaniem bloku kodu:
