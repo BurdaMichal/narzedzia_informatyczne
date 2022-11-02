@@ -49,5 +49,7 @@ Lista elementów nienumerowanych:
 
 <h1>Duży nagłówek</h1>
 
+<h2>Mniejszy nagłówek</h2>
+
 
 
