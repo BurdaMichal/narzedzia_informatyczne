@@ -30,6 +30,7 @@ Rodzaj wydatków | Koszty
 - | Pensje pracowników | 12839zł
 - | Internet za miesiąc | 72zł 
 
+---
 
 Kod z wykorzystaniem bloku kodu:
 ```python
