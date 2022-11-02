@@ -24,11 +24,10 @@ link: https://home.agh.edu.pl/~pawljmlo/didactics/tools/2022/2
 Tabela:
 <h2>Kosztorys</h2>
 
-| Rodzaj wydatków | Koszty | 
-| W ynajem biura | 1550zł |
-| Pensje pracowników | 12839zł |
-| Internet za miesiąc | 72zł |
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 Kod z wykorzystaniem bloku kodu:
@@ -60,4 +59,6 @@ Lista elementów nienumerowanych:
 <h2>Mniejszy nagłówek</h2>
 
 <h3>Najmniejszy nagłówek</h3>
+
+
 
