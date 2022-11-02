@@ -19,7 +19,7 @@ Lista elementów nienumerowanych:
 
 # Większy nagłówek 
 ## Mniejszy nagłówek 
-###### Najmniejszy nagłówek
+
 
 
 Kod z wykorzystaniem bloku kodu:
