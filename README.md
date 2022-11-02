@@ -1,5 +1,6 @@
 # narzedzia_informatyczne
-Edycja tekstu. Naszym projektem jest aplikacja.
+# Aplikacja StudUnity
+Głównym celem projektu jest stworzenie przyjaznego i łatwego w obsłudze środowiska ułatwiającego naukę i poszerzanie wiedzy z różnych zakresów. Dzięki naszej aplikacji studenci rozmaitych kierunków będą mogli wspomagać się wzajemnie w tym trudnym aspekcie studenckiego życia.
 
 link: https://home.agh.edu.pl/~pawljmlo/didactics/tools/2022/2
 
