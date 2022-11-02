@@ -33,17 +33,6 @@ sum = int(x) + int(y)
 print("The sum is: ", sum)
 ```
 
-
-
-
-
-
-
-
-
-
-
-
 Lista elementów numerowanych:
 1. Jeden
 2. Dwa
@@ -57,6 +46,8 @@ Lista elementów nienumerowanych:
 * Trzy 
 * Cztety
 * Pięć
+
+<h1>Duży nagłówek</h1>
 
 
 
