@@ -22,6 +22,7 @@ Lista elementów nienumerowanych:
 ##Nagłówek mniejszy
 
 Kod z wykorzystaniem bloku kodu:
+```python
 x = input("Type a number: ")
 y = input("Type another number: ")
 
