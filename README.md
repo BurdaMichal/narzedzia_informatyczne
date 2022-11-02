@@ -31,9 +31,7 @@ y = input("Wpisz druga liczbe: ")
 sum = int(x) + int(y)
 
 print("The sum is: ", sum)
-
-'''
-
+```
 
 
 
