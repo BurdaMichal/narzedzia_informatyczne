@@ -23,8 +23,8 @@ Lista elementów nienumerowanych:
 
 Kod z wykorzystaniem bloku kodu:
 ```python
-x = input("Type a number: ")
-y = input("Type another number: ")
+x = input("Wpisz pierwsza liczbe: ")
+y = input("Wpisz druga liczbe: ")
 
 sum = int(x) + int(y)
 
