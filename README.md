@@ -62,3 +62,26 @@ Lista elementów nienumerowanych:
 <h3>Najmniejszy nagłówek</h3>
 
 
+---
+title: Tworzenie bazy danych i dodawanie tabel
+description: Samouczek opisujący sposób dodawania tabel i kluczy obcych do bazy danych przy użyciu Projektanta tabel w Visual Studio. Przedstawiono w nim również sposób dodawania danych za pomocą interfejsu graficznego.
+ms.date: 03/30/2022
+ms.topic: conceptual
+helpviewer_keywords:
+- database tables, creating
+- database files, creating
+- table designer
+ms.assetid: 99c2b06f-47aa-414e-8057-a3453712fd23
+author: ghogen
+ms.author: ghogen
+manager: jmartens
+ms.technology: vs-data-tools
+ms.workload:
+- data-storage
+ms.openlocfilehash: 40de1804c9086a201456dd2a38f0b83cc00ee006
+ms.sourcegitcommit: 1ed233bb3afc5ae1f52aff8e41f7e650342033ad
+ms.translationtype: MT
+ms.contentlocale: pl-PL
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "141274753"
+---
