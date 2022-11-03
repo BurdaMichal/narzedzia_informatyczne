@@ -62,9 +62,7 @@ Lista elementów nienumerowanych:
 <h3>Najmniejszy nagłówek</h3>
 
 
-<h1>Zwierzęta
-![dog](animals/dog.jpg)
-![cat](animals/cat.jpg)
+
 
 
 
